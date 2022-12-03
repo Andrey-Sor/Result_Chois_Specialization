@@ -8,10 +8,10 @@
     {
         Console.Write("Enter the word: ");
         arrayInitial[i] = Console.ReadLine();
-
         if(arrayInitial[i] == string.Empty) 
         {
-            Console.WriteLine("You didn't enter a word. Please, enter the word: ");
+            Console.Write("You didn't enter a word. Please, enter the word: ");
+            arrayInitial[i] = Console.ReadLine();    
         }
     }
     return arrayInitial;
@@ -29,7 +29,32 @@ void ShowArray(string[] array)
     Console.WriteLine("]");
 }
 
+string[] FinalArray(string[] arrayInitial)
+{
+    Console.Write("How many characters in a word should be: "); //Сколько  символов в слове должно быть
+    int charQuantity = Convert.ToInt32(Console.ReadLine());
+
+    int arrayFinalLength = 0;  
+    for(int i = 0; i < arrayInitial.Length; i++)
+        if(arrayInitial[i].Length <= charQuantity)
+            arrayFinalLength++;
+
+    string[] arrayFinal = new string[arrayFinalLength];
+    int j = 0;
+        
+    for(int i = 0; i < arrayInitial.Length; i++)
+    {   
+        if(arrayInitial[i].Length <= charQuantity)
+        {        
+            arrayFinal[j] = arrayInitial[i];
+            j++;
+        }  
+    }
+        return arrayFinal;
+}
 
 
 string[] initialArray = CreateInitialArray();
 ShowArray(initialArray);
+string[] finalArray = FinalArray(initialArray);
+ShowArray(finalArray);
