@@ -31,7 +31,8 @@ void ShowArray(string[] array)
 
 string[] FinalArray(string[] arrayInitial)
 {
-    Console.Write("How many characters in a word should be: "); //Сколько  символов в слове должно быть
+        //Какое максимальное количество символов в слове должно быть
+    Console.Write("What is the maximum number of characters in a word should be: ");
     int charQuantity = Convert.ToInt32(Console.ReadLine());
 
     int arrayFinalLength = 0;  
