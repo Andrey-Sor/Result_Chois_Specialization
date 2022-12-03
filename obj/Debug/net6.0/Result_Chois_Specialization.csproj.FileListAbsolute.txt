@@ -1,0 +1,15 @@
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\bin\Debug\net6.0\Result_Chois_Specialization.exe
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\bin\Debug\net6.0\Result_Chois_Specialization.deps.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\bin\Debug\net6.0\Result_Chois_Specialization.runtimeconfig.json
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\bin\Debug\net6.0\Result_Chois_Specialization.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\bin\Debug\net6.0\Result_Chois_Specialization.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.csproj.AssemblyReference.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.GeneratedMSBuildEditorConfig.editorconfig
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.AssemblyInfoInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.AssemblyInfo.cs
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.csproj.CoreCompileInputs.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\refint\Result_Chois_Specialization.dll
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.pdb
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\Result_Chois_Specialization.genruntimeconfig.cache
+F:\Каталог\К\Курсы\Разработчик\1 четверть\9.Итоги блока. Выбор специализации\Result_Chois_Specialization\obj\Debug\net6.0\ref\Result_Chois_Specialization.dll

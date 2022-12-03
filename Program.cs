@@ -1,4 +1,4 @@
-string[] CreateInitialArray()
+﻿string[] CreateInitialArray()
 {
     Console.Write("Input the number of words: ");
     int size = Convert.ToInt32(Console.ReadLine());
